@@ -1,0 +1,147 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "title": "Bebidas",
+      "sugg_url": "https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2019/10/21/pina-colada.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Promoções",
+      "sugg_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BsQ0ZcDXQTHBz0SZrFLmppiHkYK0KSGx97bF2Tpz0FFP_wsqHA&s"
+    },
+    {
+      "id": 3,
+      "title": "Café & Padaria",
+      "sugg_url": "http://famagusta-gazette.com/wp-content/uploads/2019/08/coffee-cafe.png"
+    },
+    {
+      "id": 4,
+      "title": "Doces",
+      "sugg_url": "https://images.immediate.co.uk/production/volatile/sites/2/2019/04/Choc-Fudge-Cake-b2d1909.jpg?quality=45&resize=620,413"
+    },
+    {
+      "id": 5,
+      "title": "Doação",
+      "sugg_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FlDyLkEvvGLM-mu_WkRNzRpiMYq19YOfK7P4siZdMTyCBqjL&s"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "categorie": "almoco",
+      "title": "ALMOÇOS NO IFOOD",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/t_high,q_100/webapp/landing/landing-banner-1.png"
+    },
+    {
+      "id": 2,
+      "categorie": "pratos 70%",
+      "title": "PRATOS COM 70%",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/t_high,q_100/webapp/landing/landing-banner-2.png"
+      
+    },
+    {
+      "id": 3,
+      "categorie": "restaurantes",
+      "title": "SUPER RESTAURANTES",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-novas-super-restaurantes2.jpg"
+    
+    },
+    {
+      "id": 4,
+      "categorie": "janta",
+      "title": "JANTAR IFOOD",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-novas-jantar10-2.jpg"
+   
+    }
+  
+    
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "title": "ESCOLHA 10 ITENS VARIADOS",
+      "offer_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/65c38aa8-b094-413d-9a80-ddc256bfcc78/202002161014_YekA_5.jpg",
+      "price": 37.80,
+      "newPrice": 22.90,
+      "delay": "21-30 min"
+      
+    },
+    {
+      "id": 2,
+      "title": "PIZZA CASADINHA + 3 ESFIHAS FOLHADAS DE CHOCOLATE",
+      "offer_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/5651f784-a2ef-4b29-8385-ac3e426d8f58/202007051429_HMSw_h.jpg",
+      "price": 83.30,
+      "newPrice": 54.90,
+      "delay": "48-58 min"
+      },
+    {
+      "id": 3,
+      "title": "COMBO BACON BBQ ",
+      "offer_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/c24edc85-a7e9-4b8e-8fc0-d04bbae5d634/202006120529_eJSK_m.jpg",
+      "price": "",
+      "newPrice": 29.90,
+      "delay": "40-50 min"
+      
+    },
+    {
+      "id": 4,
+      "title": "COMBO: DE LEI - 22 PEÇAS + REFRI 350ML",
+      "offer_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/02c5f46a-c56d-4959-bcf1-ffdbe55c2b55/202009270503_ohs4ky99eo.jpeg",
+      "price": 74.40,
+      "newPrice": 39.40,
+      "delay": "38-48 min"
+     
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Marmitas",
+      "categorie_url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/48/0c/af/marmita-executiva.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lanches",
+      "categorie_url": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0R0f00000zTEo1EAG/5b3a7b01e4b0f1518ff176df.jpg&w=710&h=462"
+    },
+    {
+      "id": 3,
+      "title": "Saudável",
+      "categorie_url": "https://pagoquandopuder.com.br/wp-content/uploads/2019/09/Comida-saud%C3%A1vel-n%C3%A3o-%C3%A9-mais-cara-740x493.jpg"
+    },
+  
+    {
+      "id": 4,
+      "title": "Carnes",
+      "categorie_url": "https://supermercadosrondon.com.br/guiadecarnes/images/postagens/as_7_melhores_carnes_para_churrasco_21-05-2019.jpg"
+    }
+   
+  ],
+  "restaurants": [
+    {
+      "id": 2,
+      "restaurant_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201904241955_0e4385c0-ad2e-4af0-870d-7b6d9a7a1798.jpg",
+      "title": "McDonalds's",
+      "star": 4.5,
+      "time": "15-30 min",
+      "distance": "10 km"
+    },
+    {
+      "id": 3,
+      "restaurant_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/202009301436_c2517afc-11d1-40ff-98af-9c0eedf3933c.jpg",
+      "title": "Burguer King",
+      "star": 4.6,
+      "time": "70-100 min",
+      "distance": "12 km"
+    },
+    {
+      "id": 1,
+      "restaurant_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201802011616_49307fec-8c79-43ec-9f3f-db76347cdb07.jpg",
+      "title": "Habibs",
+      "star": 3.9,
+      "time": "70-120 min",
+      "distance": "15 km"
+    }
+  ]
+}
