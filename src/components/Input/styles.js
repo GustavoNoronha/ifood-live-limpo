@@ -11,3 +11,4 @@ export const Container = styled.View`
   padding-left: 10px;
   border-radius: 4px;
 `;
+

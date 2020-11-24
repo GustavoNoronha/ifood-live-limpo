@@ -21,7 +21,16 @@ import {
 import api from '../../services/api';
 
 export default function Restaurants({ title, display }) {
-  
+  const [restaurants, setRestaurants] = useState([]);
+
+  useEffect(() => {
+    async function loadRestaurants() {
+      const response = await api.get('restaurants');
+
+      setRestaurants(response.data);
+    }
+    loadRestaurants();
+  }, []);
 
   return (
     <Container>

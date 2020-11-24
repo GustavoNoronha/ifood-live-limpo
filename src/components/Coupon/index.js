@@ -15,7 +15,11 @@ import {
 } from './styles';
 
 function Coupon({ navigation }) {
- 
+  return (
+    <CouponButton onPress={() => {}}>
+      
+    </CouponButton>
+  );
 }
 
 export default withNavigation(Coupon);
