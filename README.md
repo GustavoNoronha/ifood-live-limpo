@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a>
-    <img alt="Ifood" src="https://hotmart.s3.amazonaws.com/checkout_custom/cdbb924e-755e-4248-886c-8b8ec8338f37/bannercheckout.png" width="300" />
+    <img alt="Ifood" src="https://hotmart.s3.amazonaws.com/checkout_custom/cdbb924e-755e-4248-886c-8b8ec8338f37/bannercheckout.png" width="700" />
   </a>
 </p>
 <h1 align="center">
